@@ -203,6 +203,7 @@ For simplicity, we follow the approach in PointMAE and create a separate folder 
 
 - **Accuracy Logging**: The best accuracy is logged with wandb, also you can find it in the `.log` file by searching for `ckpt-best.pth`.
 
+We provide the checkpoints of pretrained model using all the 3DGS attributes, and the corresponding finetuned model on ModelNet10 and ModelNet40 in the [ckpts](https://huggingface.co/datasets/ShapeSplats/sharing/tree/main/ckpts).
 
 
 ## Citation
