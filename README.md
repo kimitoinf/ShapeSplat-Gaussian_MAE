@@ -29,6 +29,7 @@ $^\star$: Equal Contribution, $^\dagger$: Corresponding Author <br>
 - [x] `08.09.2024`: The ModelNet-Splats is released on [Huggingface](https://huggingface.co/datasets/ShapeSplats/ModelNet_Splats). Please follow the ModelNet [term of use](https://modelnet.cs.princeton.edu/#).
 - [x] `16.12.2024`: Code release.
 - [x] `24.12.2024`: ShapeSplat is accepted as 3DV oral! 🎄 Meet you in Singapore!
+- [x] `23.03.2025`: The 2D renders together with camera parameters are released on [Huggingface](https://huggingface.co/datasets/ShapeSplats/sharing).
 
 
 ## Method
