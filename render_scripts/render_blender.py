@@ -311,7 +311,7 @@ shutil.make_archive(
     os.path.join(obj_save_dir, "normal"), "zip", os.path.join(obj_save_dir, "normal")
 )
 
-shutil.rmtree(os.path.join(obj_save_dir, "image"))
-shutil.rmtree(os.path.join(obj_save_dir, "depth"))
-shutil.rmtree(os.path.join(obj_save_dir, "normal"))
+# shutil.rmtree(os.path.join(obj_save_dir, "image"))
+# shutil.rmtree(os.path.join(obj_save_dir, "depth"))
+# shutil.rmtree(os.path.join(obj_save_dir, "normal"))
 # print("vertical_list", vertical_list)
